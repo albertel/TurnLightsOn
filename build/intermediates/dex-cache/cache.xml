@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/albertel/AndroidStudioProjects/TurnLightsOn/TurnLightsOn/build/intermediates/pre-dexed/debug/sdkresources-f5a333c3ac38845e047419e781bfe015ed5a9843.jar"
+        jar="/home/albertel/AndroidStudioProjects/TurnLightsOn/TurnLightsOn/libs/sdkresources.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="50028ba020161448a2668c4467fa9b4b36c8e155"/>
+    <item
+        dex="/home/albertel/AndroidStudioProjects/TurnLightsOn/TurnLightsOn/build/intermediates/pre-dexed/debug/huelocalsdk-986378c35c1b4a8506e7ba087ba0dc6cfb3550ab.jar"
+        jar="/home/albertel/AndroidStudioProjects/TurnLightsOn/TurnLightsOn/libs/huelocalsdk.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5ac01ff62c7188c2f1a400d5032ab129ceffa833"/>
+
+</pre-dex-items>

@@ -15,6 +15,8 @@ import android.widget.Toast;
 
 import com.albertelli.android.turnonlights.turnlightson.turnlightson.R;
 
+import com.philips.lighting.hue.sdk.PHHueSDK;
+import com.philips.lighting.hue.sdk.
 import org.w3c.dom.Text;
 
 import java.util.Date;
@@ -48,7 +50,7 @@ public class LightsFragment extends Fragment {
         super.onCreate(savedInstanceState);
         setRetainInstance(true);
         mLightsManager = LightsManager.get(getActivity());
-    }
+   }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
